@@ -1,0 +1,39 @@
+10 avg
+
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:4
+32*32 runtime:33
+64*64 runtime:210
+128*128 runtime:1373
+256*256 runtime:10386
+512*512 runtime:83215
+
+//
+2 avg 1015-115
+
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:0
+32*32 runtime:39
+64*64 runtime:250
+128*128 runtime:1680
+256*256 runtime:10620
+512*512 runtime:84039
+1024*1024 runtime:671358
+
+//
+256 cap
+
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:0
+32*32 runtime:0
+64*64 runtime:7
+128*128 runtime:8
+256*256 runtime:203
+512*512 runtime:10118
+1024*1024 runtime:701494

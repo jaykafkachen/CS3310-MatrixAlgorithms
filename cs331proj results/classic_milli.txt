@@ -1,0 +1,26 @@
+
+test0
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:0
+32*32 runtime:0
+64*64 runtime:4
+128*128 runtime:14
+256*256 runtime:157
+512*512 runtime:1264
+1024*1024 runtime:11304
+2048*2048 runtime:192496
+
+test
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:0
+32*32 runtime:0
+64*64 runtime:3
+128*128 runtime:20
+256*256 runtime:152
+512*512 runtime:1273
+1024*1024 runtime:11224
+2048*2048 runtime:192079

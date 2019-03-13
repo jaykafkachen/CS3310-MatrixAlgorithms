@@ -1,0 +1,20 @@
+pure:
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:15
+16*16 runtime:473
+32*32 runtime:3779
+64*64 runtime:85572
+128*128 runtime:1544382
+
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:0
+16*16 runtime:7
+32*32 runtime:0
+64*64 runtime:0
+128*128 runtime:23
+256*256 runtime:211
+512*512 runtime:3037
+1024*1024 runtime:54745
+2048*2048 runtime:280116
