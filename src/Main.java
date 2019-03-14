@@ -24,13 +24,13 @@ public class Main
     public static void timeCounter(int[][] m)
     {
         long startTime, runTime, avg = 0;
-        for(int i=0;i<2;i++)
+        for(int i=0;i<5;i++)
         {
             startTime = System.currentTimeMillis();
 
             //testClassic(m);
-            testDC(m);
-            //testStrassens(m);
+            //testDC(m);
+            testStrassens(m);
 
             runTime = System.currentTimeMillis() - startTime;
             avg+=runTime;

@@ -18,3 +18,16 @@ pure:
 512*512 runtime:3037
 1024*1024 runtime:54745
 2048*2048 runtime:280116
+
+NEW
+//
+2*2 runtime:0
+4*4 runtime:0
+8*8 runtime:8
+16*16 runtime:31
+32*32 runtime:195
+64*64 runtime:937
+128*128 runtime:5618
+256*256 runtime:44192
+512*512 runtime:318060
+1024*1024 runtime:2050837
